@@ -29,7 +29,7 @@ print("지금",Pro_Name,"을 공부합니다. 학습도구는", Pro_Tool,"입니
 f="나",a
 print(f)
 
-print("지금'{0}'을 공부합니다.\학습 도구는 '{1}'입니다.",format((Pro_Name,Pro_Tool)))
+print("지금'{0}'을 공부합니다.\학습 도구는 '{1}'입니다.",format(Pro_Name,Pro_Tool))
 
 my_Name="배윤지"
 my_home="충남 천안시"
