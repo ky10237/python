@@ -1,0 +1,28 @@
+# a, b=map(int,input().split())
+# print(a+b)
+#
+# a,b=map(int, input().split())
+# print(a-b)
+#
+# a= int(input())
+# b= int(input())
+# print(a,b)
+
+# a, b=map(int, input().split())
+# print(a*b)
+
+# a, b=map(int,input().split())
+# print(a/b)
+
+# a,b=map(int,input().split())
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(int(a/b))
+# print(a%b)
+#
+# print ('Hello World!')
+
+ur_id=input()
+sp=ur_id+"??!"
+print(sp)
